@@ -1,0 +1,12 @@
+**/.DS_Store
+BehaviorStudy/Library/
+BehaviorStudy/.vs
+BehaviorStudy/Temp/
+BehaviorStudy/obj
+BehaviorStudy/*.csproj
+BehaviorStudy/*game*.sln
+BehaviorStudy/game*.userprefs
+BehaviorStudy/game*.suo
+BehaviorStudy/game*.csproj.user
+BehaviorStudy/game.CSharp.*
+BehaviorStudy/*.unityproj
