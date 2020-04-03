@@ -11,7 +11,7 @@ namespace MyExample
 		private GameObject obj;
 		public override void OnStart()
 		{
-			obj = GameObject.Find("Defence");
+			obj = GameObject.Find("Tower");
 			GlobalVariables.Instance.SetVariable("targetObj", (SharedGameObject)obj);
 		}
 
